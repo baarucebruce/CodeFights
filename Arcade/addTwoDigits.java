@@ -1,5 +1,5 @@
 /*
-*	Add Two Digits
+*	Challenge Name: Add Two Digits
 *	Input is two digits, add the sum of both integers
 */
 
